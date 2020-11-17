@@ -55,6 +55,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bulma/css/bulma.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -109,5 +110,8 @@
       }
     }
   },
-  "defaultProject": "aidan-website"
+  "defaultProject": "aidan-website",
+  "cli": {
+    "analytics": "df39b6b2-4b51-4ae8-9b21-13f5979e66ce"
+  }
 }
